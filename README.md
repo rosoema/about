@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building **a Link Appender Extension in React**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 Currently learning **TypeScript**, and currently building in **React**
 
 - 👨‍💻 Check out my projects at [rosoema.com](rosoema.com)
 
