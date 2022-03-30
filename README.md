@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Ema</h1>
-<br/>
-<br/>
 <h3 align="center">Semantic HTML, responsive Web Design and reusable JS enthusiast</h3>
 <br/>
 <br/>
