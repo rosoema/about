@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ema</h1>
-<h3 align="center">Semantic HTML, responsive Web Design and reusable JS enthusiast</h3>
+<h3 align="center">Started by making blog pages and remained a semantic HTML, responsive Web Design and reusable JS enthusiast</h3>
 <br/>
 
 - 🔭 I’m currently building **a Link Appender Extension in React**
