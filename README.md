@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer and semantic HTML, responsive Web Design and reusable JavaScript enthusiast</h3>
 <br/>
 
-- 🔭 I’m currently building **a Link Appender Extension** and a **Frontend eCommerce Website** in **React**
+- 🔭 I’m currently building **a Link Appender Extension (React)** and a **Frontend eCommerce Website (React, Redux, GraphQL)**
 
 - 🌱 Learning **Redux** & **GraphQL**, and building in **React**
 
