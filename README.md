@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building **a Link Appender Extension** and a **Frontend eCommerce Website** in **React**
 
-- 🌱 Currently learning **Redux**, and building in **React**
+- 🌱 Learning **Redux** & **GraphQL**, and building in **React**
 
 - 👨‍💻 Check out my projects at [rosoema.com](rosoema.com)
 
