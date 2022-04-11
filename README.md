@@ -6,7 +6,7 @@
 
 - 🌱 Learning **Redux** & **GraphQL**, building in **React**
 
-- 👨‍💻 Check out my projects at [rosoema.com](rosoema.com)
+- 👨‍💻 Check out my portfolio page [here](https://rosoema.com/)
 
 - 📫 You can always reach me at **roso.emawd@gmail.com**
 
