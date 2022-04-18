@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Frontend Developer and semantic HTML, responsive Web Design and reusable JavaScript enthusiast</h3>
 <br/>
 
-- 🔭 I’m currently building **a Link Appender Extension (React)** and a [**Frontend eCommerce Website (React, GraphQL, styled-components)**](https://github.com/rosoema/frontend-store)
+- 📌 My most recent project is a [**Frontend eCommerce Website (React, GraphQL, styled-components)**](https://github.com/rosoema/frontend-store)
+
+- 💻💭 I’m currently building **a Link Appender Extension (React)**
 
 - 🌱 Learning **Redux** & **GraphQL**, building in **React**
 
