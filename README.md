@@ -6,7 +6,7 @@
 
 - 💻💭 I’m currently building **a Link Appender Extension (React)**
 
-- 🌱 Learning **Redux** & **GraphQL**, building in **React**
+- 🌱 Learning **Redux**, **GraphQL** & **MySQL**, building in **React**
 
 - 👨‍💻 Check out my portfolio page [here](https://rosoema.com/)
 
