@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer and semantic HTML, responsive Web Design and reusable JavaScript enthusiast</h3>
 <br/>
 
-- 📌 My most recent project is a **[Link Appender Extension (React)]**(https://github.com/rosoema/append-link-ext)
+- 📌 My most recent project is a [**Link Appender Extension (React)**](https://github.com/rosoema/append-link-ext)
 
 - 💻💭 I’m currently building **something exciting and top secret**
 
