@@ -6,7 +6,7 @@
 
 - 💻💭 I’m currently building **something exciting and top secret**
 
-- 🌱 Learning **Redux**, **GraphQL**, **Angular**, **MySQL** & **PHP**, building in **React**
+- 🌱 Exploring **Angular**, building in **React**
 
 - 👨‍💻 Check out my portfolio page [here](https://rosoema.com/)
 
