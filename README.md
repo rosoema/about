@@ -7,4 +7,6 @@
     <a target="_blank" href="https://twitter.com/ffc0cbDeficient" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+<p>Hi there. My name is Ema, and I am a front-end developer on a full-stack journey. Keep scrolling if you wish to see some of my latest work, or to get to know me a bit better.</p>
+
 
