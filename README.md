@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://media2.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+</div>
+
 [![Group 23 (5)](https://user-images.githubusercontent.com/98010825/170812924-23394edb-a74a-49e7-b7fd-9164151dc8f2.svg)](https://rosoema.com/)
 
 <p align="center">
