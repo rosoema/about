@@ -13,7 +13,7 @@
 <pre>
     🚀 most recent project:   <a href="https://t.co/tvJoeh2vEg">house plants API</a>
 
-    🔧 currently working on:   coming
+    🔧 currently working on:   coming soon
 
     🧰 in my toolbox:   <b>javascript, react, html, css +  </b>
 </pre>
