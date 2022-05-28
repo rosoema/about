@@ -1,5 +1,4 @@
-[![Group 23 (9)](https://user-images.githubusercontent.com/98010825/170788014-2b984d00-d2f6-40ba-aa10-b7b64e528a5b.svg)](https://rosoema.com/)
-
+[![Group 23 (5)](https://user-images.githubusercontent.com/98010825/170812924-23394edb-a74a-49e7-b7fd-9164151dc8f2.svg)](https://rosoema.com/)
 
 <p align="right">
     <a target="_blank" href="https://www.linkedin.com/in/rosoema/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rosoema/"/></a>
@@ -7,6 +6,14 @@
     <a target="_blank" href="https://twitter.com/ffc0cbDeficient" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<p>Hi there. My name is Ema, and I am a front-end developer on a full-stack journey. Keep scrolling if you wish to see some of my latest work, or to get to know me a bit better.</p>
+<p>hi there. my name is ema and i'm a front-end developer on a journey to full-stack. if you would like to explore my latest projects, tools i use, or simply get to know me better - everything you need you'll find down below. now, let's define ema.</p>
 
+<br>
 
+<pre>
+    🚀 most recent project:   <a href="https://t.co/tvJoeh2vEg">house plants API</a>
+
+    🔧 currently working on:   coming
+
+    🧰 in my toolbox:   <b>javascript, react, html, css +  </b>
+</pre>
