@@ -10,7 +10,7 @@
 
 <h2 align="center">hi there.</h2>
 
-<p>my name is ema and i'm a front-end developer on a journey to full-stack. if you would like to explore my latest projects, tools i use, or simply get to know me better - everything you need you'll find down below.</p>
+<p>my name is ema and i'm a full stack developer. if you would like to explore my latest projects, tools i use, or simply get to know me better - everything you need you'll find down below.</p>
 
 <br>
 
