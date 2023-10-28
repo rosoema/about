@@ -3,6 +3,8 @@
 </div>
 <br>
 <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/rosoema/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rosoema/"/></a>
-    <a target="_blank" href="mailto:contact@rosoema.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-for-the-badge&logo=gmail&logoColor=white&link=mailto:roso.emawd@gmail.com"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/rosoema/" >LinkedIn</a>
+    <a target="_blank" href="mailto:contact@rosoema.com">E-mail</a>
 </p>
+
+
