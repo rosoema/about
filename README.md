@@ -4,6 +4,25 @@
 
 <div align="center">
   <h1>Technical skills</h1>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/48/express-js.png" alt="express-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql--v1.png" alt="mysql--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+  <img width="48" height="48" src="https://img.icons8.com/office/48/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-color-tal-revivo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/webstorm.png" alt="webstorm"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/>
 </div>
 
 <div align="center">
