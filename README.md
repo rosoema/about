@@ -4,6 +4,7 @@
 
 <div align="center">
   <h1>Technical skills</h1>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/48/express-js.png" alt="express-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mysql--v1.png" alt="mysql--v1"/>
