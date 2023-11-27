@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/rosoema/rosoema/assets/98010825/efe8cff6-20ad-40fc-9f55-702eedc64a54">
 <h1></h1>
-<p align="center">Clean code enthusiast skilled in innovation, performance optimization, and cross-functional collaboration. Dedicated to enhancing user experiences and making an impact.</p>
+<p align="center">Clean code enthusiast motivated by innovation, performance optimization, and cross-functional collaboration. Dedicated to enhancing user experiences and making an impact.</p>
 
 <div align="center">
   <h1>Technical skills</h1>
