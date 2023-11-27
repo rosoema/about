@@ -1,6 +1,9 @@
-<img align="center" src="https://github.com/rosoema/rosoema/assets/98010825/efe8cff6-20ad-40fc-9f55-702eedc64a54">
-<h1></h1>
-<p align="center">Clean code enthusiast motivated by innovation, performance optimization, and cross-functional collaboration. Dedicated to enhancing user experiences and making an impact.</p>
+<p align="center">
+  <img src="https://github.com/rosoema/rosoema/assets/98010825/7f5b64c0-7b14-40ee-888c-bb4d535234d6" alt="My Avatar">
+  <h1 align="center">Hi, my name is Ema.</h1>
+  <p align="center">I am a clean code enthusiast motivated by innovation, performance optimization, and cross-functional collaboration. Dedicated to enhancing user experiences and making an impact.</p>
+</p>
+<br>
 
 <div align="center">
   <h1>Technical skills</h1>
@@ -36,6 +39,7 @@
   <a href="https://www.youtube.com/@EmaRoso"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play" title="YouTube Account"/></a>
   <a href="https://www.tiktok.com/@emaroso"><img width="48" height="48" src="https://img.icons8.com/color/48/tiktok--v1.png" alt="tiktok--v1" title="TikTok Account"/></a>
 </div>
+<br>
 
 <div align="center">
   <h1></h1>
